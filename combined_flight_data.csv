@@ -1,136 +1,116 @@
 Flight Price,Flight Duration,Departure Time,Departure Location,Arrival Time,Arrival Location,Site
-"4,716",1h 20m,21:30,PNQ,22:50,DEL,agoda
-"4,949",02h 10m,01:00,Pune,03:10,Delhi,EaseMyTrip
-"4,949",2h 10m,21:55,PNQ,00:05+1,DEL,agoda
-"4,949",2h 10m,01:00AirIndia ExpressI5-736,Pune,Arrival time not found,New Delhi,Yatra
 "4,999",02h 15m,00:50,Pune,03:05,Delhi,EaseMyTrip
 "4,999",2h 15m,00:50Air IndiaAI-1852,Pune,Arrival time not found,New Delhi,Yatra
-"5,060",2h 10m,01:00,PNQ,03:10,DEL,agoda
-"5,140",2h 5m,05:35,PNQ,07:40,DEL,agoda
-"5,174",2h 15m,06:00,PNQ,08:15,DEL,agoda
-"5,174",2h 20m,16:20,PNQ,18:40,DEL,agoda
-"5,410",2h 10m,01:00,PNQ,03:10,DEL,agoda
-"5,680",01h 20m,21:30,Pune,22:50,Delhi,EaseMyTrip
-"5,680",02h 15m,06:00,Pune,08:15,Delhi,EaseMyTrip
+"5,253",01h 20m,21:30,Pune,22:50,Delhi,EaseMyTrip
 "5,680",02h 20m,16:20,Pune,18:40,Delhi,EaseMyTrip
 "5,680",1h 20m,21:30SpiceJetSG-390,Pune,Arrival time not found,New Delhi,Yatra
-"5,681",02h 10m,21:55,Pune,00:05,Delhi,EaseMyTrip
+"5,680",2h 20m,16:20SpiceJetSG-8184,Pune,Arrival time not found,New Delhi,Yatra
 "5,681",02h 10m,00:10,Pune,02:20,Delhi,EaseMyTrip
 "5,681",2h 10m,00:10AirIndia ExpressI5-722,Pune,Arrival time not found,New Delhi,Yatra
-"5,681",2h 10m,21:55Air IndiaAI-854,Pune,Arrival time not found,New Delhi,Yatra
-"5,796",2h 15m,16:55,PNQ,19:10,DEL,agoda
-"5,802",2h 15m,06:40,PNQ,08:55,DEL,agoda
-"5,808",2h 10m,00:10,PNQ,02:20,DEL,agoda
-"5,831",02h 05m,05:35,Pune,07:40,Delhi,EaseMyTrip
-"5,831",02h 15m,16:55,Pune,19:10,Delhi,EaseMyTrip
-"5,831",2h 05m,05:35VistaraUK-974,Pune,Arrival time not found,New Delhi,Yatra
-"5,831",2h 15m,16:55VistaraUK-998,Pune,Arrival time not found,New Delhi,Yatra
-"5,843",2h 5m,20:25,PNQ,22:30,DEL,agoda
+"5,891",02h 10m,21:55,Pune,00:05,Delhi,EaseMyTrip
+"5,891",2h 10m,21:55Air IndiaAI-854,Pune,Arrival time not found,New Delhi,Yatra
+"5,942",02h 15m,06:00,Pune,08:15,Delhi,EaseMyTrip
 "5,942",2h 15m,06:00SpiceJetSG-8937,Pune,Arrival time not found,New Delhi,Yatra
-"5,942",2h 20m,16:20SpiceJetSG-8184,Pune,Arrival time not found,New Delhi,Yatra
-"5,995",2h 15m,06:40AirIndia ExpressI5-767,Pune,Arrival time not found,New Delhi,Yatra
-"6,085",02h 05m,20:25,Pune,22:30,Delhi,EaseMyTrip
-"6,085",2h 05m,20:25VistaraUK-992,Pune,Arrival time not found,New Delhi,Yatra
 "6,101",02h 20m,21:20,Pune,23:40,Delhi,EaseMyTrip
 "6,101",2h 20m,21:20IndiGo6E-5369,Pune,Arrival time not found,New Delhi,Yatra
-"6,102",2h 20m,21:20,PNQ,23:40,DEL,agoda
-"6,185",2h 10m,00:10,PNQ,02:20,DEL,agoda
+"6,146",02h 05m,05:35,Pune,07:40,Delhi,EaseMyTrip
+"6,146",2h 05m,05:35VistaraUK-974,Pune,Arrival time not found,New Delhi,Yatra
+"6,310",07h 35m,01:45,Pune,09:20,Delhi,EaseMyTrip
+"6,310",07h 35m,16:55,Pune,00:30,Delhi,EaseMyTrip
+"6,310",7h 35m,01:45Multiple AirlineI5-975/1590,Pune,Arrival time not found,New Delhi,Yatra
+"6,310",7h 35m,16:55AirIndia ExpressI5-320/754,Pune,Arrival time not found,New Delhi,Yatra
 "6,311",02h 15m,15:55,Pune,18:10,Delhi,EaseMyTrip
 "6,311",2h 15m,15:55Air IndiaAI-858,Pune,Arrival time not found,New Delhi,Yatra
+"6,363",02h 10m,05:05,Pune,07:15,Delhi,EaseMyTrip
 "6,363",02h 15m,18:15,Pune,20:30,Delhi,EaseMyTrip
 "6,363",02h 20m,23:45,Pune,02:05,Delhi,EaseMyTrip
 "6,363",02h 25m,22:55,Pune,01:20,Delhi,EaseMyTrip
-"6,363",02h 15m,06:40,Pune,08:55,Delhi,EaseMyTrip
+"6,363",2h 10m,05:05IndiGo6E-2419,Pune,Arrival time not found,New Delhi,Yatra
 "6,363",2h 15m,18:15IndiGo6E-2285,Pune,Arrival time not found,New Delhi,Yatra
 "6,363",2h 20m,23:45IndiGo6E-5203,Pune,Arrival time not found,New Delhi,Yatra
 "6,363",2h 25m,22:55IndiGo6E-2278,Pune,Arrival time not found,New Delhi,Yatra
-"6,364",2h 15m,18:15,PNQ,20:30,DEL,agoda
-"6,364",2h 20m,23:45,PNQ,02:05+1,DEL,agoda
-"6,364",2h 25m,22:55,PNQ,01:20+1,DEL,agoda
 "6,483",06h 00m,05:20,Pune,11:20,Delhi,EaseMyTrip
 "6,483",06h 00m,15:45,Pune,21:45,Delhi,EaseMyTrip
-"6,483",06h 05m,07:20,Pune,13:25,Delhi,EaseMyTrip
-"6,483",06h 30m,17:00,Pune,23:30,Delhi,EaseMyTrip
-"6,483",07h 15m,13:55,Pune,21:10,Delhi,EaseMyTrip
-"6,483",07h 20m,07:20,Pune,14:40,Delhi,EaseMyTrip
-"6,483",07h 25m,04:30,Pune,11:55,Delhi,EaseMyTrip
+"6,483",06h 30m,22:50,Pune,05:20,Delhi,EaseMyTrip
 "6,483",6h 00m,05:20IndiGo6E-159/2038,Pune,Arrival time not found,New Delhi,Yatra
 "6,483",6h 00m,15:45IndiGo6E-625/613,Pune,Arrival time not found,New Delhi,Yatra
-"6,483",6h 05m,07:20IndiGo6E-391/175,Pune,Arrival time not found,New Delhi,Yatra
-"6,483",6h 30m,17:00IndiGo6E-137/6406,Pune,Arrival time not found,New Delhi,Yatra
-"6,483",7h 15m,13:55IndiGo6E-302/6034,Pune,Arrival time not found,New Delhi,Yatra
-"6,483",7h 25m,04:30IndiGo6E-6472/2276,Pune,Arrival time not found,New Delhi,Yatra
-"6,517",2h 15m,06:40,PNQ,08:55,DEL,agoda
-"6,835",2h 15m,15:55,PNQ,18:10,DEL,agoda
-"6,857",07h 35m,01:45,Pune,09:20,Delhi,EaseMyTrip
-"6,857",07h 35m,16:55,Pune,00:30,Delhi,EaseMyTrip
-"6,857",09h 40m,23:40,Pune,09:20,Delhi,EaseMyTrip
-"6,857",7h 35m,01:45Multiple AirlineI5-975/1590,Pune,Arrival time not found,New Delhi,Yatra
-"6,857",7h 35m,16:55AirIndia ExpressI5-320/754,Pune,Arrival time not found,New Delhi,Yatra
-"6,857",9h 40m,23:40AirIndia ExpressIX-982/1590,Pune,Arrival time not found,New Delhi,Yatra
+"6,483",6h 30m,22:50IndiGo6E-238/2368,Pune,Arrival time not found,New Delhi,Yatra
+"6,566",02h 05m,20:25,Pune,22:30,Delhi,EaseMyTrip
+"6,566",02h 15m,16:55,Pune,19:10,Delhi,EaseMyTrip
+"6,566",2h 05m,20:25VistaraUK-992,Pune,Arrival time not found,New Delhi,Yatra
+"6,566",2h 15m,16:55VistaraUK-998,Pune,Arrival time not found,New Delhi,Yatra
+"6,941",02h 10m,01:00,Pune,03:10,Delhi,EaseMyTrip
+"6,941",02h 15m,06:40,Pune,08:55,Delhi,EaseMyTrip
+"6,941",2h 10m,01:00AirIndia ExpressI5-736,Pune,Arrival time not found,New Delhi,Yatra
+"6,941",2h 15m,06:40AirIndia ExpressI5-767,Pune,Arrival time not found,New Delhi,Yatra
 "6,993",02h 15m,16:25,Pune,18:40,Delhi,EaseMyTrip
-"6,993",2h 15m,16:25,PNQ,18:40,DEL,agoda
-"7,105",05h 40m,19:50,Pune,01:30,Delhi,EaseMyTrip
-"7,105",06h 15m,04:45,Pune,11:00,Delhi,EaseMyTrip
-"7,105",07h 20m,04:45,Pune,12:05,Delhi,EaseMyTrip
-"7,347",2h 15m,08:45,PNQ,11:00,DEL,agoda
-"7,623",07h 15m,07:00,Pune,14:15,Delhi,EaseMyTrip
-"7,623",12h 30m,01:45,Pune,14:15,Delhi,EaseMyTrip
-"7,623",13h 50m,19:30,Pune,09:20,Delhi,EaseMyTrip
-"7,826",02h 15m,08:45,Pune,11:00,Delhi,EaseMyTrip
-"8,000",02h 05m,08:50,Pune,10:55,Delhi,EaseMyTrip
+"6,993",2h 15m,16:25IndiGo6E-6587,Pune,Arrival time not found,New Delhi,Yatra
+"7,105",09h 40m,23:40,Pune,09:20,Delhi,EaseMyTrip
+"7,105",13h 50m,19:30,Pune,09:20,Delhi,EaseMyTrip
+"7,105",4h 20m,15:50IndiGo6E-6553/2032,Pune,Arrival time not found,New Delhi,Yatra
+"7,105",9h 40m,23:40AirIndia ExpressIX-982/1590,Pune,Arrival time not found,New Delhi,Yatra
+"7,622",07h 15m,07:00,Pune,14:15,Delhi,EaseMyTrip
+"7,728",05h 40m,19:50,Pune,01:30,Delhi,EaseMyTrip
+"7,728",06h 05m,07:20,Pune,13:25,Delhi,EaseMyTrip
+"7,728",07h 15m,13:55,Pune,21:10,Delhi,EaseMyTrip
+"7,728",07h 20m,07:20,Pune,14:40,Delhi,EaseMyTrip
+"7,938",02h 20m,08:40,Pune,11:00,Delhi,EaseMyTrip
 "8,253",02h 05m,02:00,Pune,04:05,Delhi,EaseMyTrip
-"8,253",02h 10m,05:05,Pune,07:15,Delhi,EaseMyTrip
-"8,253",02h 20m,08:40,Pune,11:00,Delhi,EaseMyTrip
+"8,566",12h 00m,07:00,Pune,19:00,Delhi,EaseMyTrip
+"8,566",12h 30m,01:45,Pune,14:15,Delhi,EaseMyTrip
+"8,566",17h 15m,01:45,Pune,19:00,Delhi,EaseMyTrip
 "8,621",03h 50m,17:30,Pune,21:20,Delhi,EaseMyTrip
 "8,661",04h 20m,15:50,Pune,20:10,Delhi,EaseMyTrip
-"8,661",06h 50m,15:50,Pune,22:40,Delhi,EaseMyTrip
-"8,928",13h 15m,18:35,Pune,07:50,Delhi,EaseMyTrip
+"8,661",07h 20m,04:45,Pune,12:05,Delhi,EaseMyTrip
+"9,001",02h 05m,08:50,Pune,10:55,Delhi,EaseMyTrip
 "9,150",06h 50m,01:40,Pune,08:30,Delhi,EaseMyTrip
-"9,587",05h 40m,12:40,Pune,18:20,Delhi,EaseMyTrip
-"9,587",10h 30m,12:40,Pune,23:10,Delhi,EaseMyTrip
-"9,587",23h 35m,12:40,Pune,12:15,Delhi,EaseMyTrip
-"9,587",25h 15m,12:40,Pune,13:55,Delhi,EaseMyTrip
-"9,587",26h 35m,12:40,Pune,15:15,Delhi,EaseMyTrip
 "9,671",02h 15m,18:40,Pune,20:55,Delhi,EaseMyTrip
 "9,671",02h 20m,07:40,Pune,10:00,Delhi,EaseMyTrip
-"9,905",12h 00m,07:00,Pune,19:00,Delhi,EaseMyTrip
-"9,905",17h 15m,01:45,Pune,19:00,Delhi,EaseMyTrip
-"9,906",05h 20m,05:55,Pune,11:15,Delhi,EaseMyTrip
-"9,906",05h 40m,14:50,Pune,20:30,Delhi,EaseMyTrip
-"9,906",06h 30m,22:50,Pune,05:20,Delhi,EaseMyTrip
-"10,196",05h 20m,12:40,Pune,18:00,Delhi,EaseMyTrip
-"10,196",07h 40m,12:40,Pune,20:20,Delhi,EaseMyTrip
+"9,723",02h 15m,08:45,Pune,11:00,Delhi,EaseMyTrip
+"9,758",04h 35m,04:20,Pune,08:55,Delhi,EaseMyTrip
+"9,860",05h 40m,14:50,Pune,20:30,Delhi,EaseMyTrip
+"9,899",14h 35m,23:40,Pune,14:15,Delhi,EaseMyTrip
+"9,906",06h 30m,17:00,Pune,23:30,Delhi,EaseMyTrip
+"10,032",13h 15m,18:35,Pune,07:50,Delhi,EaseMyTrip
+"10,196",05h 40m,12:40,Pune,18:20,Delhi,EaseMyTrip
+"10,196",10h 30m,12:40,Pune,23:10,Delhi,EaseMyTrip
 "10,196",21h 40m,12:40,Pune,10:20,Delhi,EaseMyTrip
 "10,196",22h 40m,12:40,Pune,11:20,Delhi,EaseMyTrip
+"10,196",23h 35m,12:40,Pune,12:15,Delhi,EaseMyTrip
+"10,196",26h 35m,12:40,Pune,15:15,Delhi,EaseMyTrip
+"10,238",05h 20m,12:40,Pune,18:00,Delhi,EaseMyTrip
+"10,238",07h 40m,12:40,Pune,20:20,Delhi,EaseMyTrip
 "10,238",08h 35m,12:40,Pune,21:15,Delhi,EaseMyTrip
-"10,238",20h 35m,12:40,Pune,09:15,Delhi,EaseMyTrip
-"10,251",06h 15m,05:50,Pune,12:05,Delhi,EaseMyTrip
+"10,238",25h 15m,12:40,Pune,13:55,Delhi,EaseMyTrip
 "10,563",02h 10m,07:35,Pune,09:45,Delhi,EaseMyTrip
-"10,630",14h 35m,23:40,Pune,14:15,Delhi,EaseMyTrip
 "10,707",04h 30m,14:50,Pune,19:20,Delhi,EaseMyTrip
-"12,094",07h 25m,05:45,Pune,13:10,Delhi,EaseMyTrip
+"10,986",06h 15m,05:50,Pune,12:05,Delhi,EaseMyTrip
+"11,150",05h 20m,05:55,Pune,11:15,Delhi,EaseMyTrip
+"11,150",06h 15m,04:45,Pune,11:00,Delhi,EaseMyTrip
+"11,235",20h 35m,12:40,Pune,09:15,Delhi,EaseMyTrip
+"12,367",05h 05m,06:25,Pune,11:30,Delhi,EaseMyTrip
 "12,401",05h 55m,14:25,Pune,20:20,Delhi,EaseMyTrip
-"12,682",05h 05m,06:25,Pune,11:30,Delhi,EaseMyTrip
-"12,682",06h 25m,06:25,Pune,12:50,Delhi,EaseMyTrip
+"12,453",06h 25m,06:25,Pune,12:50,Delhi,EaseMyTrip
 "12,726",22h 30m,12:40,Pune,11:10,Delhi,EaseMyTrip
-"12,884",06h 00m,13:45,Pune,19:45,Delhi,EaseMyTrip
-"13,090",05h 40m,02:55,Pune,08:35,Delhi,EaseMyTrip
-"13,398",06h 15m,18:55,Pune,01:10,Delhi,EaseMyTrip
-"14,467",07h 20m,12:10,Pune,19:30,Delhi,EaseMyTrip
+"13,409",06h 00m,13:45,Pune,19:45,Delhi,EaseMyTrip
+"13,636",05h 40m,02:55,Pune,08:35,Delhi,EaseMyTrip
+"14,448",06h 15m,18:55,Pune,01:10,Delhi,EaseMyTrip
+"14,467",06h 45m,12:10,Pune,18:55,Delhi,EaseMyTrip
+"14,473",05h 55m,18:10,Pune,00:05,Delhi,EaseMyTrip
 "14,553",05h 45m,12:10,Pune,17:55,Delhi,EaseMyTrip
+"14,782",07h 20m,12:10,Pune,19:30,Delhi,EaseMyTrip
 "15,267",05h 30m,16:40,Pune,22:10,Delhi,EaseMyTrip
 "17,031",06h 45m,16:40,Pune,23:25,Delhi,EaseMyTrip
-"18,442",25h 35m,12:40,Pune,14:15,Delhi,EaseMyTrip
-"18,522",06h 15m,06:05,Pune,12:20,Delhi,EaseMyTrip
+"18,941",25h 35m,12:40,Pune,14:15,Delhi,EaseMyTrip
+"19,677",06h 15m,06:05,Pune,12:20,Delhi,EaseMyTrip
 "57,138",04h 15m,12:40,Pune,16:55,Delhi,EaseMyTrip
 "57,138",05h 30m,12:40,Pune,18:10,Delhi,EaseMyTrip
 "57,138",07h 05m,12:40,Pune,19:45,Delhi,EaseMyTrip
 "57,138",08h 00m,12:40,Pune,20:40,Delhi,EaseMyTrip
+"57,138",08h 35m,12:40,Pune,21:15,Delhi,EaseMyTrip
+"57,138",09h 15m,12:40,Pune,21:55,Delhi,EaseMyTrip
 "57,138",11h 30m,12:40,Pune,00:10,Delhi,EaseMyTrip
 "57,138",12h 20m,12:40,Pune,01:00,Delhi,EaseMyTrip
 "57,138",14h 55m,12:40,Pune,03:35,Delhi,EaseMyTrip
+"57,138",20h 00m,12:40,Pune,08:40,Delhi,EaseMyTrip
 "57,274",09h 05m,12:40,Pune,21:45,Delhi,EaseMyTrip
-"57,274",21h 50m,12:40,Pune,10:30,Delhi,EaseMyTrip
-"57,274",21h 50m,12:40,Pune,10:30,Delhi,EaseMyTrip
-"57,274",21h 50m,12:40,Pune,10:30,Delhi,EaseMyTrip
