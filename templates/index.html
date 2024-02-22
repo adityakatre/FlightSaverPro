@@ -4,6 +4,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='jquery-ui.css') }}">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.13.2/jquery-ui.min.js"></script>
     <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
     <title>Flight SaverPro</title>
 </head>
@@ -12,10 +15,10 @@
         <h1>Flight SaverPro</h1>
         <form action="{{ url_for('scrape_route.scrape') }}" method="get">
             <label for="departure">Departure Location:</label>
-            <input type="text" name="departure" id="departure" value="Pune" readonly required>
+            <input type="text" name="departure" id="departure" placeholder="Departure Airport Code" required>
         
             <label for="arrival">Arrival Location:</label>
-            <input type="text" name="arrival" id="arrival" value="Delhi" readonly required>
+            <input type="text" name="arrival" id="arrival" placeholder="Arrival Airport Code" required>
         
             <label for="date">Date:</label>
             <input type="date" name="date" id="date" required>
@@ -50,6 +53,30 @@
             </table>
         {% endif %}
     </div>
+
+    <script>
+        $(document).ready(function() {
+            var airportCodes = [
+                { label: "Bengaluru (BLR)", value: "BLR" },
+                { label: "Delhi (DEL)", value: "DEL" },
+                { label: "Chennai (MAA)", value: "MAA" },
+                { label: "Hyderabad (HYD)", value: "HYD" },
+                { label: "Mumbai (BOM)", value: "BOM" },
+                { label: "Pune (PNQ)", value: "PNQ" },
+                { label: "Kolkata (CCU)", value: "CCU" },
+                { label: "Ahmedabad (AMD)", value: "AMD" }
+            ];
+    
+            $("#departure, #arrival").autocomplete({
+                source: airportCodes,
+                minLength: 1,
+                select: function(event, ui) {
+                    $(this).val(ui.item.label);
+                    return false; // Prevent the input from being updated with the selected value
+                },
+                appendTo: "body" // Append the suggestion list to the body
+            });
+        });
+    </script>
 </body>
 </html>
-

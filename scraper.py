@@ -109,9 +109,8 @@ def extract_price_value(flight_data):
 
 
 
-def scrape_emt():
+def scrape_emt(url):
     driver = webdriver.Chrome()
-    url = "https://flight.easemytrip.com/FlightList/Index?srch=PNQ-Pune-India|DEL-Delhi-India|01/03/2024&px=1-0-0&cbn=0&ar=undefined&isow=true&isdm=true&lang=en-us&&IsDoubleSeat=false&CCODE=IN&curr=INR&apptype=B2C"
     driver.get(url)
     time.sleep(5)
     flight_rows = driver.find_elements(By.XPATH, "//div[contains(@class,'col-md-12 col-sm-12 main-bo-lis pad-top-bot ng-scope')]")
@@ -126,9 +125,8 @@ def scrape_emt():
     driver.quit()
     return data_list
 
-def scrape_agoda():
+def scrape_agoda(url):
     driver = webdriver.Chrome()
-    url = "https://www.agoda.com/en-in/flights/results?cid=1844104&departureFrom=PNQ&departureFromType=1&arrivalTo=DEL&arrivalToType=1&departDate=2024-03-01&returnDate=2024-03-02&searchType=1&cabinType=Economy&adults=1&sort=8"
     driver.get(url)
     time.sleep(5)
     flight_cards = driver.find_elements(By.XPATH, "//div[contains(@class, 'Box-sc-kv6pi1-0 bhCeID')]")
@@ -143,9 +141,8 @@ def scrape_agoda():
     driver.quit()
     return data_list
 
-def scrape_yatra():
+def scrape_yatra(url):
     driver = webdriver.Chrome()
-    url = "https://flight.yatra.com/air-search-ui/dom2/trigger?type=O&viewName=normal&flexi=0&noOfSegments=1&origin=PNQ&originCountry=IN&destination=DEL&destinationCountry=IN&flight_depart_date=01%2F03%2F2024&ADT=1&CHD=0&INF=0&class=Economy&source=fresco-flights&unqvaldesktop=454230595489"
     driver.get(url)
     time.sleep(5)
     flight_cards = driver.find_elements(By.XPATH, "//div[contains(@class ,'flightItem border-shadow pr')]")
@@ -160,12 +157,12 @@ def scrape_yatra():
     driver.quit()
     return data_list
 
-def scrape_data():
+def scrape_data(agoda_url, emt_url, yatra_url):
     # Running scraping functions in parallel
     with ThreadPoolExecutor() as executor:
-        emt_future = executor.submit(scrape_emt)
-        agoda_future = executor.submit(scrape_agoda)
-        yatra_future = executor.submit(scrape_yatra)
+        emt_future = executor.submit(scrape_emt, emt_url)
+        agoda_future = executor.submit(scrape_agoda, agoda_url)
+        yatra_future = executor.submit(scrape_yatra, yatra_url)
 
     # Combine data from all sites
     data_list_emt = emt_future.result()
@@ -177,9 +174,3 @@ def scrape_data():
     combined_data_sorted = sorted(combined_data, key=extract_price_value)
 
     return combined_data_sorted
-
-
-
-
-
-
