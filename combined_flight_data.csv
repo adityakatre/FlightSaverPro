@@ -1,187 +1,179 @@
 Flight Price,Flight Duration,Departure Time,Departure Location,Arrival Time,Arrival Location,Site
-"7,230",06h 05m,07:35,Kolkata,13:40,Mumbai,EaseMyTrip
-"7,230",6h 05m,07:35IndiGo6E-7623/2304,Kolkata,Arrival time not found,Mumbai,Yatra
+"6,569",2h 45m,19:15,CCU,22:00,BOM,agoda
+"6,821",6h 10m,18:55,CCU,01:05+1,BOM,agoda
+"6,821",9h 50m,18:55,CCU,04:45+1,BOM,agoda
+"7,052",06h 10m,18:55,Kolkata,01:05,Mumbai,EaseMyTrip
+"7,052",08h 40m,16:25,Kolkata,01:05,Mumbai,EaseMyTrip
+"7,052",09h 50m,18:55,Kolkata,04:45,Mumbai,EaseMyTrip
+"7,052",11h 10m,13:55,Kolkata,01:05,Mumbai,EaseMyTrip
+"7,052",12h 20m,16:25,Kolkata,04:45,Mumbai,EaseMyTrip
+"7,052",14h 50m,13:55,Kolkata,04:45,Mumbai,EaseMyTrip
+"7,052",16h 10m,08:55,Kolkata,01:05,Mumbai,EaseMyTrip
+"7,052",6h 10m,18:55Multiple AirlineI5-554/2903,Kolkata,Arrival time not found,Mumbai,Yatra
+"7,052",8h 40m,16:25Multiple AirlineI5-1563/2903,Kolkata,Arrival time not found,Mumbai,Yatra
+"7,052",9h 50m,18:55AirIndia ExpressI5-554/472,Kolkata,Arrival time not found,Mumbai,Yatra
+"7,052",11h 10m,13:55Multiple AirlineI5-990/2903,Kolkata,Arrival time not found,Mumbai,Yatra
+"7,052",12h 20m,16:25AirIndia ExpressI5-1563/472,Kolkata,Arrival time not found,Mumbai,Yatra
+"7,052",14h 50m,13:55AirIndia ExpressI5-990/472,Kolkata,Arrival time not found,Mumbai,Yatra
+"7,052",16h 10m,08:55Multiple AirlineI5-1453/2903,Kolkata,Arrival time not found,Mumbai,Yatra
+"7,230",04h 55m,19:25,Kolkata,00:20,Mumbai,EaseMyTrip
+"7,230",05h 10m,05:25,Kolkata,10:35,Mumbai,EaseMyTrip
+"7,230",06h 00m,18:45,Kolkata,00:45,Mumbai,EaseMyTrip
+"7,230",06h 15m,06:00,Kolkata,12:15,Mumbai,EaseMyTrip
+"7,230",06h 15m,19:10,Kolkata,01:25,Mumbai,EaseMyTrip
+"7,230",06h 20m,05:25,Kolkata,11:45,Mumbai,EaseMyTrip
+"7,230",06h 25m,08:10,Kolkata,14:35,Mumbai,EaseMyTrip
+"7,230",06h 30m,05:05,Kolkata,11:35,Mumbai,EaseMyTrip
+"7,230",06h 40m,16:55,Kolkata,23:35,Mumbai,EaseMyTrip
+"7,230",06h 45m,06:45,Kolkata,13:30,Mumbai,EaseMyTrip
+"7,230",4h 55m,19:25IndiGo6E-427/5195,Kolkata,Arrival time not found,Mumbai,Yatra
+"7,230",5h 10m,05:25IndiGo6E-6623/5213,Kolkata,Arrival time not found,Mumbai,Yatra
+"7,230",6h 00m,18:45IndiGo6E-6251/6283,Kolkata,Arrival time not found,Mumbai,Yatra
+"7,230",6h 15m,06:00IndiGo6E-771/5051,Kolkata,Arrival time not found,Mumbai,Yatra
+"7,230",6h 15m,19:10IndiGo6E-234/6225,Kolkata,Arrival time not found,Mumbai,Yatra
+"7,230",6h 20m,05:25IndiGo6E-6623/5163,Kolkata,Arrival time not found,Mumbai,Yatra
+"7,230",6h 25m,08:10IndiGo6E-496/5293,Kolkata,Arrival time not found,Mumbai,Yatra
+"7,230",6h 30m,05:05IndiGo6E-344/303,Kolkata,Arrival time not found,Mumbai,Yatra
+"7,230",6h 40m,16:55IndiGo6E-757/5268,Kolkata,Arrival time not found,Mumbai,Yatra
+"7,230",6h 45m,06:45IndiGo6E-375/6047,Kolkata,Arrival time not found,Mumbai,Yatra
+"7,312",02h 50m,02:00,Kolkata,04:50,Mumbai,EaseMyTrip
+"7,312",02h 55m,22:00,Kolkata,00:55,Mumbai,EaseMyTrip
 "7,312",02h 45m,19:15,Kolkata,22:00,Mumbai,EaseMyTrip
 "7,312",2h 45m,19:15SpiceJetSG-487,Kolkata,Arrival time not found,Mumbai,Yatra
-"7,426",6h 5m,07:35,CCU,13:40,BOM,agoda
-"7,449",6h 55m,18:15,CCU,01:10+1,BOM,agoda
-"7,449",7h 0m,16:15,CCU,23:15,BOM,agoda
+"7,312",2h 50m,02:00IndiGo6E-6349,Kolkata,Arrival time not found,Mumbai,Yatra
+"7,312",2h 55m,22:00IndiGo6E-115,Kolkata,Arrival time not found,Mumbai,Yatra
+"7,312",3h 05m,18:40IndiGo6E-5128,Kolkata,Arrival time not found,Mumbai,Yatra
+"7,381",03h 10m,21:15,Kolkata,00:25,Mumbai,EaseMyTrip
+"7,381",3h 10m,21:15Akasa AirQP-1125,Kolkata,Arrival time not found,Mumbai,Yatra
+"7,426",4h 55m,19:25,CCU,00:20+1,BOM,agoda
+"7,426",5h 10m,05:25,CCU,10:35,BOM,agoda
+"7,510",2h 50m,02:00,CCU,04:50,BOM,agoda
+"7,510",2h 55m,22:00,CCU,00:55+1,BOM,agoda
+"7,510",3h 5m,18:40,CCU,21:45,BOM,agoda
+"7,522",02h 50m,13:30,Kolkata,16:20,Mumbai,EaseMyTrip
 "7,522",03h 05m,18:40,Kolkata,21:45,Mumbai,EaseMyTrip
-"7,522",3h 05m,18:40IndiGo6E-5128,Kolkata,Arrival time not found,Mumbai,Yatra
+"7,522",2h 50m,06:25IndiGo6E-313,Kolkata,Arrival time not found,Mumbai,Yatra
+"7,683",02h 35m,10:25,Kolkata,13:00,Mumbai,EaseMyTrip
 "7,683",02h 55m,20:40,Kolkata,23:35,Mumbai,EaseMyTrip
+"7,683",2h 35m,10:25VistaraUK-772,Kolkata,Arrival time not found,Mumbai,Yatra
 "7,683",2h 55m,20:40VistaraUK-776,Kolkata,Arrival time not found,Mumbai,Yatra
-"7,726",3h 5m,18:40,CCU,21:45,BOM,agoda
+"7,726",2h 50m,06:25,CCU,09:15,BOM,agoda
+"7,732",02h 50m,11:15,Kolkata,14:05,Mumbai,EaseMyTrip
 "7,732",02h 50m,06:25,Kolkata,09:15,Mumbai,EaseMyTrip
-"7,732",02h 50m,09:15,Kolkata,12:05,Mumbai,EaseMyTrip
-"7,732",2h 50m,06:25IndiGo6E-313,Kolkata,Arrival time not found,Mumbai,Yatra
-"7,732",2h 50m,09:15IndiGo6E-5297,Kolkata,Arrival time not found,Mumbai,Yatra
-"7,788",02h 50m,17:30,Kolkata,20:20,Mumbai,EaseMyTrip
-"7,788",2h 50m,17:30VistaraUK-774,Kolkata,Arrival time not found,Mumbai,Yatra
-"7,855",3h 0m,09:35,CCU,12:35,BOM,agoda
-"7,886",2h 50m,17:30,CCU,20:20,BOM,agoda
-"7,941",2h 50m,09:15,CCU,12:05,BOM,agoda
-"7,941",2h 50m,06:25,CCU,09:15,BOM,agoda
-"7,943",03h 00m,09:35,Kolkata,12:35,Mumbai,EaseMyTrip
-"7,943",3h 00m,09:35Air IndiaAI-676,Kolkata,Arrival time not found,Mumbai,Yatra
-"7,998",02h 35m,10:25,Kolkata,13:00,Mumbai,EaseMyTrip
-"7,998",2h 35m,10:25VistaraUK-772,Kolkata,Arrival time not found,Mumbai,Yatra
+"7,732",2h 50m,11:15,CCU,14:05,BOM,agoda
+"7,843",3h 10m,16:05,CCU,19:15,BOM,agoda
+"7,910",05h 45m,12:55,Kolkata,18:40,Mumbai,EaseMyTrip
+"7,910",05h 50m,14:35,Kolkata,20:25,Mumbai,EaseMyTrip
+"7,910",05h 55m,15:10,Kolkata,21:05,Mumbai,EaseMyTrip
+"7,910",06h 05m,07:35,Kolkata,13:40,Mumbai,EaseMyTrip
+"7,910",06h 40m,16:35,Kolkata,23:15,Mumbai,EaseMyTrip
+"7,910",06h 55m,12:55,Kolkata,19:50,Mumbai,EaseMyTrip
+"7,943",03h 10m,16:05,Kolkata,19:15,Mumbai,EaseMyTrip
+"7,998",02h 50m,17:30,Kolkata,20:20,Mumbai,EaseMyTrip
 "8,047",02h 45m,16:00,Kolkata,18:45,Mumbai,EaseMyTrip
-"8,047",02h 50m,11:15,Kolkata,14:05,Mumbai,EaseMyTrip
-"8,047",02h 50m,13:30,Kolkata,16:20,Mumbai,EaseMyTrip
-"8,047",2h 45m,16:00IndiGo6E-6206,Kolkata,Arrival time not found,Mumbai,Yatra
-"8,047",2h 50m,11:15IndiGo6E-5288,Kolkata,Arrival time not found,Mumbai,Yatra
-"8,047",2h 50m,13:30IndiGo6E-5227,Kolkata,Arrival time not found,Mumbai,Yatra
-"8,070",2h 35m,10:25,CCU,13:00,BOM,agoda
-"8,070",2h 55m,20:40,CCU,23:35,BOM,agoda
-"8,265",2h 45m,16:00,CCU,18:45,BOM,agoda
-"8,265",2h 50m,11:15,CCU,14:05,BOM,agoda
-"8,265",2h 50m,13:30,CCU,16:20,BOM,agoda
-"8,495",03h 10m,21:15,Kolkata,00:25,Mumbai,EaseMyTrip
-"8,495",3h 10m,21:15Akasa AirQP-1125,Kolkata,Arrival time not found,Mumbai,Yatra
-"8,572",02h 50m,02:00,Kolkata,04:50,Mumbai,EaseMyTrip
-"8,572",2h 50m,02:00IndiGo6E-6349,Kolkata,Arrival time not found,Mumbai,Yatra
-"8,573",3h 5m,17:55,CCU,21:00,BOM,agoda
-"8,573",3h 10m,16:05,CCU,19:15,BOM,agoda
-"8,666",04h 30m,15:05,Kolkata,19:35,Mumbai,EaseMyTrip
-"8,666",4h 30m,15:05IndiGo6E-417/5191,Kolkata,Arrival time not found,Mumbai,Yatra
-"8,678",03h 05m,17:55,Kolkata,21:00,Mumbai,EaseMyTrip
-"8,678",03h 10m,16:05,Kolkata,19:15,Mumbai,EaseMyTrip
-"8,678",3h 05m,17:55Air IndiaAI-773,Kolkata,Arrival time not found,Mumbai,Yatra
-"8,678",3h 10m,16:05Air IndiaAI-775,Kolkata,Arrival time not found,Mumbai,Yatra
-"8,804",2h 50m,02:00,CCU,04:50,BOM,agoda
-"8,887",02h 55m,22:00,Kolkata,00:55,Mumbai,EaseMyTrip
-"8,887",2h 55m,22:00IndiGo6E-115,Kolkata,Arrival time not found,Mumbai,Yatra
-"8,900",4h 30m,15:05,CCU,19:35,BOM,agoda
-"9,127",2h 55m,22:00,CCU,00:55+1,BOM,agoda
-"9,230",3h 10m,21:15,CCU,00:25+1,BOM,agoda
-"9,506",05h 35m,14:05,Kolkata,19:40,Mumbai,EaseMyTrip
-"9,506",06h 00m,18:45,Kolkata,00:45,Mumbai,EaseMyTrip
-"9,506",06h 15m,06:00,Kolkata,12:15,Mumbai,EaseMyTrip
-"9,506",06h 15m,19:10,Kolkata,01:25,Mumbai,EaseMyTrip
-"9,506",06h 30m,05:05,Kolkata,11:35,Mumbai,EaseMyTrip
-"9,506",06h 30m,14:25,Kolkata,20:55,Mumbai,EaseMyTrip
-"9,506",06h 55m,12:55,Kolkata,19:50,Mumbai,EaseMyTrip
-"9,506",7h 35m,13:55,CCU,21:30,BOM,agoda
-"9,506",5h 35m,14:05IndiGo6E-394/5324,Kolkata,Arrival time not found,Mumbai,Yatra
-"9,506",6h 00m,18:45IndiGo6E-6251/6283,Kolkata,Arrival time not found,Mumbai,Yatra
-"9,506",6h 15m,06:00IndiGo6E-771/5051,Kolkata,Arrival time not found,Mumbai,Yatra
-"9,506",6h 15m,19:10IndiGo6E-234/6225,Kolkata,Arrival time not found,Mumbai,Yatra
-"9,506",6h 30m,05:05IndiGo6E-344/303,Kolkata,Arrival time not found,Mumbai,Yatra
-"9,506",6h 30m,14:25IndiGo6E-7174/545,Kolkata,Arrival time not found,Mumbai,Yatra
-"9,506",6h 55m,12:55IndiGo6E-455/5255,Kolkata,Arrival time not found,Mumbai,Yatra
-"9,801",05h 10m,05:25,Kolkata,10:35,Mumbai,EaseMyTrip
-"9,801",05h 50m,08:45,Kolkata,14:35,Mumbai,EaseMyTrip
-"9,969",24h 10m,07:35,Kolkata,07:45,Mumbai,EaseMyTrip
-"9,972",07h 35m,13:55,Kolkata,21:30,Mumbai,EaseMyTrip
-"9,972",09h 50m,18:55,Kolkata,04:45,Mumbai,EaseMyTrip
-"9,972",12h 35m,08:55,Kolkata,21:30,Mumbai,EaseMyTrip
-"9,972",13h 35m,07:55,Kolkata,21:30,Mumbai,EaseMyTrip
-"9,972",14h 50m,13:55,Kolkata,04:45,Mumbai,EaseMyTrip
-"10,308",24h 20m,19:55,Kolkata,20:15,Mumbai,EaseMyTrip
-"10,308",24h 40m,19:55,Kolkata,20:35,Mumbai,EaseMyTrip
-"10,308",25h 40m,19:55,Kolkata,21:35,Mumbai,EaseMyTrip
+"8,047",02h 50m,09:15,Kolkata,12:05,Mumbai,EaseMyTrip
+"8,110",3h 10m,21:15,CCU,00:25+1,BOM,agoda
+"8,150",2h 35m,10:25,CCU,13:00,BOM,agoda
+"8,150",2h 50m,17:30,CCU,20:20,BOM,agoda
+"8,150",2h 55m,20:40,CCU,23:35,BOM,agoda
+"8,265",2h 50m,09:15,CCU,12:05,BOM,agoda
+"8,541",05h 50m,08:45,Kolkata,14:35,Mumbai,EaseMyTrip
+"8,560",3h 0m,09:35,CCU,12:35,BOM,agoda
+"8,588",2h 45m,16:00,CCU,18:45,BOM,agoda
+"8,588",2h 50m,13:30,CCU,16:20,BOM,agoda
+"8,666",05h 25m,21:25,Kolkata,02:50,Mumbai,EaseMyTrip
+"8,666",06h 25m,09:45,Kolkata,16:10,Mumbai,EaseMyTrip
+"8,678",03h 00m,09:35,Kolkata,12:35,Mumbai,EaseMyTrip
+"9,307",12h 35m,08:55,Kolkata,21:30,Mumbai,EaseMyTrip
+"9,506",06h 45m,05:30,Kolkata,12:15,Mumbai,EaseMyTrip
+"9,707",24h 10m,07:35,Kolkata,07:45,Mumbai,EaseMyTrip
+"9,725",3h 5m,17:55,CCU,21:00,BOM,agoda
+"9,833",03h 05m,17:55,Kolkata,21:00,Mumbai,EaseMyTrip
+"9,880",04h 30m,15:05,Kolkata,19:35,Mumbai,EaseMyTrip
+"10,167",04h 45m,12:35,Kolkata,17:20,Mumbai,EaseMyTrip
+"10,203",11h 10m,09:05,Kolkata,20:15,Mumbai,EaseMyTrip
+"10,203",11h 30m,09:05,Kolkata,20:35,Mumbai,EaseMyTrip
+"10,203",12h 30m,09:05,Kolkata,21:35,Mumbai,EaseMyTrip
+"10,203",12h 30m,19:55,Kolkata,08:25,Mumbai,EaseMyTrip
+"10,203",14h 15m,09:05,Kolkata,23:20,Mumbai,EaseMyTrip
+"10,203",14h 15m,19:55,Kolkata,10:10,Mumbai,EaseMyTrip
+"10,203",23h 20m,09:05,Kolkata,08:25,Mumbai,EaseMyTrip
+"10,203",24h 20m,19:55,Kolkata,20:15,Mumbai,EaseMyTrip
+"10,203",24h 40m,19:55,Kolkata,20:35,Mumbai,EaseMyTrip
+"10,203",25h 05m,09:05,Kolkata,10:10,Mumbai,EaseMyTrip
+"10,203",25h 40m,19:55,Kolkata,21:35,Mumbai,EaseMyTrip
+"10,203",27h 25m,19:55,Kolkata,23:20,Mumbai,EaseMyTrip
 "10,426",14h 25m,08:55,Kolkata,23:20,Mumbai,EaseMyTrip
 "10,426",15h 25m,07:55,Kolkata,23:20,Mumbai,EaseMyTrip
 "10,426",28h 25m,18:55,Kolkata,23:20,Mumbai,EaseMyTrip
-"10,439",06h 20m,05:25,Kolkata,11:45,Mumbai,EaseMyTrip
-"10,520",04h 45m,12:35,Kolkata,17:20,Mumbai,EaseMyTrip
+"10,439",05h 35m,14:05,Kolkata,19:40,Mumbai,EaseMyTrip
+"10,439",05h 50m,11:50,Kolkata,17:40,Mumbai,EaseMyTrip
+"10,439",06h 30m,14:25,Kolkata,20:55,Mumbai,EaseMyTrip
+"10,439",06h 55m,18:15,Kolkata,01:10,Mumbai,EaseMyTrip
 "10,531",14h 25m,08:55,Kolkata,23:20,Mumbai,EaseMyTrip
 "10,531",14h 25m,08:55,Kolkata,23:20,Mumbai,EaseMyTrip
 "10,531",15h 25m,07:55,Kolkata,23:20,Mumbai,EaseMyTrip
 "10,531",15h 25m,07:55,Kolkata,23:20,Mumbai,EaseMyTrip
 "10,531",28h 25m,18:55,Kolkata,23:20,Mumbai,EaseMyTrip
-"10,603",06h 20m,17:00,Kolkata,23:20,Mumbai,EaseMyTrip
+"10,544",06h 55m,07:40,Kolkata,14:35,Mumbai,EaseMyTrip
 "10,926",13h 35m,08:55,Kolkata,22:30,Mumbai,EaseMyTrip
 "10,926",14h 35m,07:55,Kolkata,22:30,Mumbai,EaseMyTrip
+"10,990",19h 00m,14:00,Kolkata,09:00,Mumbai,EaseMyTrip
+"11,023",06h 20m,17:00,Kolkata,23:20,Mumbai,EaseMyTrip
 "11,031",13h 35m,08:55,Kolkata,22:30,Mumbai,EaseMyTrip
 "11,031",13h 35m,08:55,Kolkata,22:30,Mumbai,EaseMyTrip
 "11,031",14h 35m,07:55,Kolkata,22:30,Mumbai,EaseMyTrip
 "11,031",14h 35m,07:55,Kolkata,22:30,Mumbai,EaseMyTrip
 "11,031",25h 00m,08:55,Kolkata,09:55,Mumbai,EaseMyTrip
+"11,031",25h 00m,08:55,Kolkata,09:55,Mumbai,EaseMyTrip
+"11,042",26h 40m,06:20,Kolkata,09:00,Mumbai,EaseMyTrip
+"11,043",05h 05m,15:30,Kolkata,20:35,Mumbai,EaseMyTrip
+"11,043",06h 05m,15:30,Kolkata,21:35,Mumbai,EaseMyTrip
 "11,043",07h 50m,15:30,Kolkata,23:20,Mumbai,EaseMyTrip
-"11,043",14h 15m,09:05,Kolkata,23:20,Mumbai,EaseMyTrip
-"11,074",06h 10m,18:55,Kolkata,01:05,Mumbai,EaseMyTrip
-"11,074",11h 10m,13:55,Kolkata,01:05,Mumbai,EaseMyTrip
-"11,074",16h 10m,08:55,Kolkata,01:05,Mumbai,EaseMyTrip
-"11,103",16h 55m,17:00,Kolkata,09:55,Mumbai,EaseMyTrip
-"11,148",05h 05m,15:30,Kolkata,20:35,Mumbai,EaseMyTrip
-"11,148",06h 05m,15:30,Kolkata,21:35,Mumbai,EaseMyTrip
-"11,148",11h 10m,09:05,Kolkata,20:15,Mumbai,EaseMyTrip
-"11,148",11h 30m,09:05,Kolkata,20:35,Mumbai,EaseMyTrip
-"11,148",12h 30m,09:05,Kolkata,21:35,Mumbai,EaseMyTrip
+"11,043",16h 55m,15:30,Kolkata,08:25,Mumbai,EaseMyTrip
+"11,043",18h 40m,15:30,Kolkata,10:10,Mumbai,EaseMyTrip
+"11,129",13h 55m,06:00,Kolkata,19:55,Mumbai,EaseMyTrip
+"11,306",05h 55m,14:00,Kolkata,19:55,Mumbai,EaseMyTrip
+"11,306",08h 15m,14:00,Kolkata,22:15,Mumbai,EaseMyTrip
+"11,306",11h 10m,14:00,Kolkata,01:10,Mumbai,EaseMyTrip
+"11,328",16h 20m,20:30,Kolkata,12:50,Mumbai,EaseMyTrip
+"11,358",13h 35m,06:20,Kolkata,19:55,Mumbai,EaseMyTrip
+"11,358",15h 55m,06:20,Kolkata,22:15,Mumbai,EaseMyTrip
+"11,358",18h 50m,06:20,Kolkata,01:10,Mumbai,EaseMyTrip
 "11,452",08h 15m,20:30,Kolkata,04:45,Mumbai,EaseMyTrip
 "11,471",06h 25m,09:55,Kolkata,16:20,Mumbai,EaseMyTrip
-"11,471",07h 00m,09:55,Kolkata,16:55,Mumbai,EaseMyTrip
-"11,471",07h 00m,15:25,Kolkata,22:25,Mumbai,EaseMyTrip
-"11,471",08h 05m,15:25,Kolkata,23:30,Mumbai,EaseMyTrip
-"11,471",08h 10m,09:55,Kolkata,18:05,Mumbai,EaseMyTrip
-"11,471",09h 25m,15:25,Kolkata,00:50,Mumbai,EaseMyTrip
-"11,471",09h 40m,09:55,Kolkata,19:35,Mumbai,EaseMyTrip
-"11,471",12h 30m,09:55,Kolkata,22:25,Mumbai,EaseMyTrip
+"11,471",09h 45m,06:35,Kolkata,16:20,Mumbai,EaseMyTrip
 "11,471",13h 15m,20:00,Kolkata,09:15,Mumbai,EaseMyTrip
-"11,471",13h 35m,09:55,Kolkata,23:30,Mumbai,EaseMyTrip
-"11,471",14h 15m,20:00,Kolkata,10:15,Mumbai,EaseMyTrip
-"11,477",06h 25m,09:45,Kolkata,16:10,Mumbai,EaseMyTrip
-"11,477",06h 40m,16:35,Kolkata,23:15,Mumbai,EaseMyTrip
-"11,477",06h 45m,05:30,Kolkata,12:15,Mumbai,EaseMyTrip
-"11,477",06h 45m,06:45,Kolkata,13:30,Mumbai,EaseMyTrip
-"11,498",05h 30m,06:00,Kolkata,11:30,Mumbai,EaseMyTrip
-"11,590",11h 30m,20:30,Kolkata,08:00,Mumbai,EaseMyTrip
 "11,590",13h 15m,20:30,Kolkata,09:45,Mumbai,EaseMyTrip
-"11,800",13h 55m,06:00,Kolkata,19:55,Mumbai,EaseMyTrip
-"11,878",26h 40m,06:20,Kolkata,09:00,Mumbai,EaseMyTrip
-"12,336",05h 55m,15:10,Kolkata,21:05,Mumbai,EaseMyTrip
-"12,452",06h 00m,15:25,Kolkata,21:25,Mumbai,EaseMyTrip
-"12,452",11h 30m,09:55,Kolkata,21:25,Mumbai,EaseMyTrip
-"12,468",05h 50m,06:35,Kolkata,12:25,Mumbai,EaseMyTrip
-"12,468",09h 45m,06:35,Kolkata,16:20,Mumbai,EaseMyTrip
-"12,468",10h 20m,06:35,Kolkata,16:55,Mumbai,EaseMyTrip
-"12,468",13h 00m,06:35,Kolkata,19:35,Mumbai,EaseMyTrip
-"12,468",14h 50m,06:35,Kolkata,21:25,Mumbai,EaseMyTrip
-"12,559",04h 55m,19:25,Kolkata,00:20,Mumbai,EaseMyTrip
-"12,630",06h 40m,16:55,Kolkata,23:35,Mumbai,EaseMyTrip
-"12,630",06h 55m,10:00,Kolkata,16:55,Mumbai,EaseMyTrip
-"12,838",05h 45m,12:55,Kolkata,18:40,Mumbai,EaseMyTrip
-"13,003",05h 50m,18:20,Kolkata,00:10,Mumbai,EaseMyTrip
-"13,192",18h 50m,06:20,Kolkata,01:10,Mumbai,EaseMyTrip
-"13,487",13h 15m,18:45,Kolkata,08:00,Mumbai,EaseMyTrip
-"13,768",13h 35m,06:20,Kolkata,19:55,Mumbai,EaseMyTrip
-"13,912",04h 40m,06:40,Kolkata,11:20,Mumbai,EaseMyTrip
-"13,970",10h 00m,18:45,Kolkata,04:45,Mumbai,EaseMyTrip
-"14,346",15h 55m,06:20,Kolkata,22:15,Mumbai,EaseMyTrip
-"14,444",13h 10m,10:30,Kolkata,23:40,Mumbai,EaseMyTrip
-"14,944",06h 25m,08:10,Kolkata,14:35,Mumbai,EaseMyTrip
-"15,408",06h 35m,15:25,Kolkata,22:00,Mumbai,EaseMyTrip
-"15,408",07h 10m,15:25,Kolkata,22:35,Mumbai,EaseMyTrip
-"15,408",08h 15m,15:25,Kolkata,23:40,Mumbai,EaseMyTrip
-"15,639",12h 30m,19:55,Kolkata,08:25,Mumbai,EaseMyTrip
-"15,639",16h 55m,15:30,Kolkata,08:25,Mumbai,EaseMyTrip
-"15,849",14h 15m,19:55,Kolkata,10:10,Mumbai,EaseMyTrip
-"15,849",15h 30m,19:55,Kolkata,11:25,Mumbai,EaseMyTrip
-"15,967",11h 55m,07:10,Kolkata,19:05,Mumbai,EaseMyTrip
+"11,590",18h 30m,20:30,Kolkata,15:00,Mumbai,EaseMyTrip
+"11,590",19h 55m,20:30,Kolkata,16:25,Mumbai,EaseMyTrip
+"11,590",21h 05m,20:30,Kolkata,17:35,Mumbai,EaseMyTrip
+"11,590",22h 35m,20:30,Kolkata,19:05,Mumbai,EaseMyTrip
+"11,590",23h 30m,20:30,Kolkata,20:00,Mumbai,EaseMyTrip
+"11,590",24h 45m,20:30,Kolkata,21:15,Mumbai,EaseMyTrip
+"11,590",25h 30m,20:30,Kolkata,22:00,Mumbai,EaseMyTrip
+"11,891",04h 40m,06:40,Kolkata,11:20,Mumbai,EaseMyTrip
+"12,132",05h 50m,06:35,Kolkata,12:25,Mumbai,EaseMyTrip
+"12,132",07h 00m,09:55,Kolkata,16:55,Mumbai,EaseMyTrip
+"12,583",05h 50m,18:20,Kolkata,00:10,Mumbai,EaseMyTrip
+"12,588",14h 40m,15:25,Kolkata,06:05,Mumbai,EaseMyTrip
+"12,588",18h 40m,15:25,Kolkata,10:05,Mumbai,EaseMyTrip
+"12,630",06h 20m,18:05,Kolkata,00:25,Mumbai,EaseMyTrip
+"12,630",06h 55m,14:35,Kolkata,21:30,Mumbai,EaseMyTrip
+"13,144",05h 30m,06:00,Kolkata,11:30,Mumbai,EaseMyTrip
+"13,644",06h 00m,15:25,Kolkata,21:25,Mumbai,EaseMyTrip
+"13,644",07h 00m,15:25,Kolkata,22:25,Mumbai,EaseMyTrip
+"13,644",08h 05m,15:25,Kolkata,23:30,Mumbai,EaseMyTrip
+"15,356",05h 30m,18:45,Kolkata,00:15,Mumbai,EaseMyTrip
+"15,366",08h 10m,09:55,Kolkata,18:05,Mumbai,EaseMyTrip
+"15,967",06h 40m,07:10,Kolkata,13:50,Mumbai,EaseMyTrip
+"15,967",07h 50m,07:10,Kolkata,15:00,Mumbai,EaseMyTrip
 "16,019",05h 55m,10:30,Kolkata,16:25,Mumbai,EaseMyTrip
-"16,019",07h 05m,10:30,Kolkata,17:35,Mumbai,EaseMyTrip
-"16,019",08h 35m,10:30,Kolkata,19:05,Mumbai,EaseMyTrip
-"16,019",09h 30m,10:30,Kolkata,20:00,Mumbai,EaseMyTrip
-"16,019",10h 45m,10:30,Kolkata,21:15,Mumbai,EaseMyTrip
-"16,019",11h 30m,10:30,Kolkata,22:00,Mumbai,EaseMyTrip
-"16,019",12h 05m,10:30,Kolkata,22:35,Mumbai,EaseMyTrip
 "16,773",05h 50m,15:25,Kolkata,21:15,Mumbai,EaseMyTrip
-"17,444",05h 50m,14:35,Kolkata,20:25,Mumbai,EaseMyTrip
-"17,743",05h 50m,11:50,Kolkata,17:40,Mumbai,EaseMyTrip
-"18,426",06h 55m,07:40,Kolkata,14:35,Mumbai,EaseMyTrip
-"18,611",05h 25m,07:10,Kolkata,12:35,Mumbai,EaseMyTrip
-"18,611",06h 40m,07:10,Kolkata,13:50,Mumbai,EaseMyTrip
-"18,611",07h 50m,07:10,Kolkata,15:00,Mumbai,EaseMyTrip
-"18,611",09h 15m,07:10,Kolkata,16:25,Mumbai,EaseMyTrip
-"18,611",10h 25m,07:10,Kolkata,17:35,Mumbai,EaseMyTrip
-"18,611",12h 50m,07:10,Kolkata,20:00,Mumbai,EaseMyTrip
-"19,019",06h 55m,14:35,Kolkata,21:30,Mumbai,EaseMyTrip
-"19,229",06h 20m,18:05,Kolkata,00:25,Mumbai,EaseMyTrip
-"19,389",05h 25m,21:25,Kolkata,02:50,Mumbai,EaseMyTrip
+"16,773",06h 35m,15:25,Kolkata,22:00,Mumbai,EaseMyTrip
+"16,773",07h 10m,15:25,Kolkata,22:35,Mumbai,EaseMyTrip
+"16,773",08h 15m,15:25,Kolkata,23:40,Mumbai,EaseMyTrip
+"18,716",07h 05m,10:30,Kolkata,17:35,Mumbai,EaseMyTrip
 "19,440",09h 40m,10:30,Kolkata,20:10,Mumbai,EaseMyTrip
 "19,440",11h 40m,10:30,Kolkata,22:10,Mumbai,EaseMyTrip
-"22,116",19h 00m,14:00,Kolkata,09:00,Mumbai,EaseMyTrip
-"23,428",11h 10m,14:00,Kolkata,01:10,Mumbai,EaseMyTrip
-"24,006",05h 55m,14:00,Kolkata,19:55,Mumbai,EaseMyTrip
-"24,584",08h 15m,14:00,Kolkata,22:15,Mumbai,EaseMyTrip
+"20,921",05h 25m,07:10,Kolkata,12:35,Mumbai,EaseMyTrip
