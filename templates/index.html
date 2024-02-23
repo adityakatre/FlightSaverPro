@@ -15,10 +15,10 @@
         <h1>Flight SaverPro</h1>
         <form action="{{ url_for('scrape_route.scrape') }}" method="get">
             <label for="departure">Departure Location:</label>
-            <input type="text" name="departure" id="departure" placeholder="Departure Airport Code" required>
+            <input type="text" name="departure" id="departure" placeholder="from" required>
         
             <label for="arrival">Arrival Location:</label>
-            <input type="text" name="arrival" id="arrival" placeholder="Arrival Airport Code" required>
+            <input type="text" name="arrival" id="arrival" placeholder="To" required>
         
             <label for="date">Date:</label>
             <input type="date" name="date" id="date" required>
@@ -28,31 +28,21 @@
         
 
         {% if flight_data %}
-            <h2>Flight Results</h2>
-            <table>
-                <tr>
-                    <th>Site</th>
-                    <th>Flight Price</th>
-                    <th>Flight Duration</th>
-                    <th>Departure Time</th>
-                    <th>Departure Location</th>
-                    <th>Arrival Time</th>
-                    <th>Arrival Location</th>
-                </tr>
-                {% for flight in flight_data %}
-                    <tr>
-                        <td>{{ flight['Site'] }}</td>
-                        <td>{{ flight['Flight Price'] }}</td>
-                        <td>{{ flight['Flight Duration'] }}</td>
-                        <td>{{ flight['Departure Time'] }}</td>
-                        <td>{{ flight['Departure Location'] }}</td>
-                        <td>{{ flight['Arrival Time'] }}</td>
-                        <td>{{ flight['Arrival Location'] }}</td>
-                    </tr>
-                {% endfor %}
-            </table>
-        {% endif %}
-    </div>
+        <h2>Flight Results</h2>
+        <div class="flight-cards">
+            {% for flight in flight_data %}
+                <div class="flight-card">
+                    <h3>{{ flight['Site'] }}</h3>
+                    <p>Price: {{ flight['Flight Price'] }}</p>
+                    <p>Duration: {{ flight['Flight Duration'] }}</p>
+                    <p>Departure: {{ flight['Departure Time'] }} - {{ flight['Departure Location'] }}</p>
+                    <p>Arrival: {{ flight['Arrival Time'] }} - {{ flight['Arrival Location'] }}</p>
+                </div>
+            {% endfor %}
+        </div>
+    {% endif %}
+</div>
+
 
     <script>
         $(document).ready(function() {
