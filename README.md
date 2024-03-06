@@ -37,7 +37,7 @@ pip install pandas
  Ensure you have ChromeDriver installed for Selenium. You can download ChromeDriver from https://sites.google.com/a/chromium.org/chromedriver/ and add it to your system's PATH.
 ### Step 4: Run flask 
 Run the Flask application. In your terminal, navigate to the project directory and run.Open a web browser and go to http://127.0.0.1:5000/ to view the application.
-## License
+
 
 ## Ethical Considerations
 
