@@ -22,7 +22,6 @@ Start by cloning this project to your local machine. Open a terminal and run:
 
 ```bash
 git clone https://github.com/Adityakatre/FlightSaverPro.git
-cd your_project_name
 ```
 ### Step 2:Install the required dependencies using pip:
 ```bash
